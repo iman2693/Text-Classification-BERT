@@ -25,7 +25,6 @@ Welcome to the Text Classification project repository! This project focuses on u
 ### Reports and Visualizations
 
 - **Report.pdf**: A comprehensive report summarizing the experiments, results, and insights.
-- **TextClassification.png**: Visualization related to text classification results.
 
 ## Usage
 
