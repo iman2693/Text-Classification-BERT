@@ -1,6 +1,8 @@
 # Text-Classification-BERT
 Text Classification using BERT on a Persian dataset called Persica
 
+
+
 ## Overview
 
 Welcome to the Text Classification project repository! This project focuses on utilizing ParsBert, a Persian language model, and Multilingual BERT for text classification tasks. The repository contains code, notebooks, and resources to understand, implement, and evaluate the performance of these models on text classification tasks.
